@@ -1,0 +1,9 @@
+{
+  "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+  "request_timeout_sec": 15,
+  "max_retries": 3,
+  "output": {
+    "ads_json": "data/output/ads_output.json",
+    "insights_json": "data/output/insights_output.json"
+  }
+}
